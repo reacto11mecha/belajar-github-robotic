@@ -3,3 +3,6 @@ Simulasi Bikin RFID Buat UAS
 - Cari skematik si ESP32
 - Cari komponen yang cocok untuk RFID yang bagus
 - Cocokin pinout dari PN532 ke ESP32
+- Nyolok si ESP32 sama PN532 ke breadboard
+- Ngoding program buat si ESP32
+- Nyoba fitur awal project RFID

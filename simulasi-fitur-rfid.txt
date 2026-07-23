@@ -6,3 +6,5 @@ Simulasi Bikin RFID Buat UAS
 - Nyolok si ESP32 sama PN532 ke breadboard
 - Ngoding program buat si ESP32
 - Nyoba fitur awal project RFID
+- Bikin web yang dapat mengelola ID kartu yang ada
+- Test fitur baru
